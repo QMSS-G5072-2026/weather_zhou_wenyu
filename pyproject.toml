@@ -1,6 +1,6 @@
 [project]
 name = "weather_wz2798"
-version = "0.1.0"
+version = "0.1.1"
 description = "A small package for converting, summarizing, and cleaning weather station temperature readings."
 readme = "README.md"
 authors = [{ name = "wenyu_zhou", email = "wz2798@columbia.edu" }]

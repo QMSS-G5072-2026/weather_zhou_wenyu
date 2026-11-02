@@ -2,6 +2,8 @@
 
 A small package for converting, summarizing, and cleaning weather station temperature readings.
 
+[![ci](https://github.com/QMSS-G5072-2026/weather_zhou_wenyu/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_zhou_wenyu/actions/workflows/ci.yml)
+
 ## Installation
 
 ```bash
